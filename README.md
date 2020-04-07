@@ -1,16 +1,25 @@
 # 💣 Pazuretory ☠️
+Are you stuck with the Microsoft Azure CLI? 
 
-The name is made up. Credentials: _Azure, Purgatory, and all the lost hours trying to figure out 
-why the providers tool can not log in._
+Have you ever lost precious hours of your life trying to figure out why?
 
-Are you stuck with the Microsoft Azure CLI? Do you have to answer any of those questions with _YES_ ?
- * Can not log in?
- * Can not log out? 
- * Can you not add an account?
- * Do your `az login` commands end up with errors referring to other accounts?
- * nom nom nom
-…then this script is for you.
+#### Are you experiencing...
 
+- Trouble logging in?
+- Trouble logging out?
+- Your `az login` commands end up with errors referring to other accounts?
+- You're questioning your chosen profession?
+- nom nom nom 
+
+*…then this script is for you!*
+
+#### The name...
+
+_noun_
+
+(**Azure** + **Purgatory**) a place or state of suffering inhabited by the souls of developers who are expiating their sins before going to the cloud.
+
+>  "all her caches were purged and she would not need to go to Pazuretory"
 ## Prerequisites
 
 Only the [Azure az CLI tool](https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest).
